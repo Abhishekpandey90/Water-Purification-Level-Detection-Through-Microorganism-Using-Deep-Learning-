@@ -1,6 +1,3 @@
-I'll help you create a `README.md` file for your project based on the details you provided. Here’s a basic structure for the README:
-
----
 
 # Water Purification Level Detection Through Microorganism Using Deep Learning
 
